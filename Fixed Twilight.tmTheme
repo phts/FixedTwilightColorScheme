@@ -188,7 +188,7 @@
 			<key>name</key>
 			<string>♦ Embedded Source</string>
 			<key>scope</key>
-			<string>text source</string>
+			<string>text source, meta.template.expression</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -223,11 +223,9 @@
 			<key>name</key>
 			<string>♦ String embedded-source</string>
 			<key>scope</key>
-			<string>string source</string>
+			<string>string source, punctuation.definition.template-expression</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#DAEFA3</string>
 			</dict>

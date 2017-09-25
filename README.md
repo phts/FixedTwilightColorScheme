@@ -5,6 +5,8 @@ Changes in the original Twilight scheme:
 * Fix color of object keys to green (probably not working in a new ST version)
 * Fix variable color to white
 * Fix constant color in string interpolation
+* Fix string interpolation styling to light green foreground
+  and grey background
 
 ## Installation
 
