@@ -269,7 +269,7 @@
 			<key>name</key>
 			<string>♦ String variable</string>
 			<key>scope</key>
-			<string>string variable, string variable.other.constant</string>
+			<string>string variable</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
